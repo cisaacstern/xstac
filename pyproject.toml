@@ -19,7 +19,7 @@ requires = [
     "dask[array]",  # for chunking
     # these are just for generate
     "fsspec",
-    "adlfs",
+    # "adlfs",
 ]
 
 [tool.flit.scripts]
